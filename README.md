@@ -2,6 +2,7 @@
 1. 添加了主页显示饼图
 2. 测试结果显示的时候按照测试的时间顺序排序，原来是名称顺序
 3. 本地化了部分显示内容，如 reportlog，@Test的desicription
+![](https://images2018.cnblogs.com/blog/1087925/201804/1087925-20180415230727815-1344232230.png)
 
 pom.xml配置
 <!-- 依赖reportNg 关联testNg -->
